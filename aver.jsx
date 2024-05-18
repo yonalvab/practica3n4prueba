@@ -1,0 +1,1 @@
+import aji from './src/assets/home/background-home-desktop.jpg'
